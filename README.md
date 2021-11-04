@@ -4,16 +4,17 @@
 ## Screenshots
 
 ### Página de inicio
-![homepage snap](https://github.com/franjav/acueducto-md/images/screenshot/pagina-inicio.png?raw=true)
+![homepage snap](https://github.com/franjav/acueducto-md/blob/main/images/screenshot/pagina-inicio.png?raw=true)
 ### Interfaz de Administrador
 ![dashboard snap](https://github.com/franjav/acueducto-md/images/screenshot/adminhomepage.png?raw=true)
 ### Módulo Clientes
-![users snap](https://github.com/franjav/acueducto-md/images/screenshot/modulo-clientes.png?raw=true)
+![users snap](https://github.com/franjav/acueducto-md/blob/main/images/screenshot/modulo-clientes.png?raw=true)
 ### Módulo Facturación
-![facturacion snap](https://github.com/franjav/acueducto-md/images/screenshot/modulo-facturacion.png?raw=true)
+![facturacion snap](https://github.com/franjav/acueducto-md/blob/main/images/screenshot/modulo-facturacion.png?raw=true)
 ### Módulo Suscriptores
-![facturacion snap](https://github.com/franjav/acueducto-md/images/screenshot/modulo-suscriptores.png?raw=true)
+![facturacion snap](https://github.com/franjav/acueducto-md/blob/main/images/screenshot/modulo-suscriptores.png?raw=true)
 ---
+
 
 
 ## Funciones:
@@ -39,7 +40,7 @@ o enviarlas directamente a impresion.
 
 ---
 
-1. Clone el proyecto: git clone https://github.com/franjavfm/controlnotas.git
+1. Clone el proyecto: git clone https://github.com/franjav/acueducto-md.git
 2. Ingrese al directorio del proyecto: ``` cd acueducto-md ```
 3. Copie el directorio completo en la carpeta htdocs: ``` c:/xampp/htdocs ```
 4. Crear la base de datos: ``` En el directorio db, se halla el archivo waterbilling.sql ```
@@ -51,12 +52,13 @@ o enviarlas directamente a impresion.
 
 ---
 
-##ADMI DASHBOARD
+## ADMI DASHBOARD
 
 Para acceder al sistema como administrador utilice las siguientes credenciales:
 
-username: admin
-password: admin
+> username: admin
+
+> password: admin
 
 
 
@@ -66,10 +68,9 @@ Otra opción es:
 - Descomprima el archivo. Luego ejecute los pasos anteriores: 
 
 
-## CAMBIOS NECESARIOS PARA PERMITIR LA INTERACCIÓN CON EL CORREO DE GMAIL Y CONTACTAR CON NOSOTROS 
+## CONFIGURACION DEL SISTEMA PARA INICIAR EL PROYECTO 
 
-De momento no es necesario realizar cambios adicionales para ejecutar la aplicación. Si por algún motivo siguiendo los pasos antes
-descritos no es posible iniciar el proyecto, favor comunicarse al contacto que aparece más adelante.
+De momento no es necesario realizar cambios adicionales para ejecutar la aplicación. Si por algún motivo siguiendo los pasos antes descritos no es posible iniciar el proyecto, favor comunicarse al contacto que aparece más adelante.
 
 ## Advertencia
 Este proyecto está en desarrollo como trabajo profesional para optar por el título de Tecnologo en Análisis y Desarrollo de Sistemas de Información. De momento, se prohibe su copia o reproducción sin la autorización del propietario.
